@@ -1,4 +1,5 @@
 Netflix Data Analysis
+
 Overview
 This project provides an in-depth analysis of Netflix's catalog using publicly available data. The goal is to uncover insights about the types of content available on the platform, trends over time, and potential recommendations for users.
 
